@@ -27,7 +27,7 @@ Mining and Learning with Graphs</h1>
 
 <center><em> Monday 7 September or Friday 11 September 2026, Naples, Italy, jointly with <a href="https://ecmlpkdd.org/2026/" target=_blank>ECMLPKDD2026</a></em></center> <br />
 
-<img src="header.png" class="headerimg" width="70%" height="auto" alt="ChatGPT generated picture of a view of Naples with a graph floating in the sky that forms the letters MLG.">
+<img src="header.jpg" class="headerimg" width="70%" height="auto" alt="ChatGPT generated picture of a view of Naples with a graph floating in the sky that forms the letters MLG.">
 
 
 
@@ -271,15 +271,16 @@ Please also check the dual submission policy of the other venue.</p>
   University of Vienna
 </li>
 <li class="center">
-  <img src="christoph.jpg" width="150px" height="auto"><br/>
+  <img src="christoph.png" width="150px" height="auto"><br/>
   <a href="https://informatics.tuwien.ac.at/people/christoph-sandrock" target=_blank>Christoph Sandrock</a><br />
-  University of Vienna
+  TU Wien
 </li>
 <li class="center">
   <img src="yllka_crop.jpeg" width="150px" height="auto"><br/>
   <a href="https://dm.cs.univie.ac.at/team/person/111869/" target=_blank>Yllka Velaj</a><br />
   University of Vienna
 </li>
+<li class="center"></li>
 <li class="center">
   <img src="pascal.jpg" width="150px" height="auto"><br/>
   <a href="https://pwelke.de" target=_blank>Pascal Welke</a><br />
@@ -288,7 +289,9 @@ Please also check the dual submission policy of the other venue.</p>
 </ul>
 
 <h2 id="pc">Program Committee</h2>
-<!-- <ul class="twocol">
+<ul class="centered"><!--"twocol"--> 
+<li>tbc</li>
+<!--
 <li>Alessia Lucia Prete <i>(University of Siena)</i></li>
 <li>Alice Moallemy-Oureh <i>(University of Kassel)</i></li>
 <li>Anatol Ehrlich <i>(University of Vienna)</i></li>
@@ -330,7 +333,8 @@ Please also check the dual submission policy of the other venue.</p>
 <li>Till Schulz <i>(Max Planck Institute of Biochemistry)</i></li>
 <li>Veronica Lachi <i>(FBK)</i></li>
 <li>Vincent Grande <i>(RWTH Aachen University)</i></li>
-</ul> -->
+-->
+</ul> 
 
 
 <h2 id="history">Previous Workshops</h2>
