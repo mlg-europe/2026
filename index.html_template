@@ -44,6 +44,17 @@ Mining and Learning with Graphs</h1>
 
 <h2 id="keynotes">Keynotes</h2>
 
+<p class="center">
+  <img src="https://github.com/johanneslutzeyer/johanneslutzeyer.github.io/blob/main/pictures/JL_profile_picture_2022.jpg?raw=true" width="150px" height="auto"><br/>
+  <a href="https://johanneslutzeyer.com/" target=_blank>Johannes Lutzeyer</a><br />
+  École Polytechnique
+  </p>
+
+  <p>Johannes Lutzeyer is an Assistant Professor in the Data Science and Mining Team at the Laboratoire d'Informatique of École Polytechnique (France). He previously completed a postdoc under the supervision of Prof. Michalis Vazirgiannis at École Polytechnique, and did his PhD on the spectral properties of the adjacency and Laplacian matrices under the supervision of Prof. Andrew Walden at Imperial College London.
+  His research focuses on Graph Neural Networks and Spectral Properties of Graph Shift Operator Matrices.</p>
+
+
+
 <!-- 
   <p class="center">
   <img src="https://rusty1s.github.io/dist/46c1d914fb6cc4d67d96c26b2fbd2573.png" width="150px" height="auto"><br/>
@@ -157,45 +168,43 @@ Please also check the dual submission policy of the other venue.</p>
 
 
     <tr><td valign="top">9.00h</td> <td> <b>Welcoming</td> </tr>
-    <tr><td valign="top">9.15h</td> <td> <b>Keynote</b><br />
-    Rebekka Burkholz <br />
-    <i>Graphs as Computational or Data Structure? A Tale of Two Functions</i>
+    <tr><td valign="top">9.10h</td> <td> <b>Keynote 1</b>
+    <!--<br />    Rebekka Burkholz <br />
+    <i>Graphs as Computational or Data Structure? A Tale of Two Functions</i> -->
     </td> </tr>
-    <tr><td valign="top">10.15h</td> <td> <b>Spotlight Talks (Group A)</b>
+    <tr><td valign="top">10.10h</td> <td> <b>1st Contributed Talk</b>
     </td> </tr>
-    <tr><td valign="top">10.30h</td> <td> <b>Coffee + Poster Session (Group A) </b>
+    <tr><td valign="top">10.30h</td> <td> <b>Coffee Break</b>
     </td> </tr>
-    <tr><td valign="top">12.00h</td> <td> <b>Contributed Talk</b><br />
-    Katharina Limbeck, Lydia Mezrag, Guy Wolf, Bastian Rieck:<br />
-    <i>Geometry-Aware Edge Pooling for Graph Neural Networks.</i>
+    <tr><td valign="top">11.00h</td> <td> <b>2nd Contributed Talk</b><br />
+    <tr><td valign="top">11.20h</td> <td> <b>Spotlight Talks (Group A)</b>
+    <!--<br /> Katharina Limbeck, Lydia Mezrag, Guy Wolf, Bastian Rieck:<br />
+    <i>Geometry-Aware Edge Pooling for Graph Neural Networks.</i> -->
     </td> </tr>
-    <tr><td valign="top">12.15h</td> <td> <b>Contributed Talk</b><br />
+    <tr><td valign="top">11.40h</td> <td> <b>Poster Session (Group A)</b>
+    <!-- <br />
     Patrick Indri, Tamara Drucks, Thomas Gärtner:<br />
-    <i>Private and Expressive Graph Representations.</i>
+    <i>Private and Expressive Graph Representations.</i> -->
     </td> </tr>
-    <tr><td valign="top">12.30h</td> <td> <b>Lunch Break</b></td> </tr>
-    <tr><td valign="top">14.00h</td> <td> <b>Keynote</b><br />Matthias Fey<br />
-    <i>Foundation Models for In-Context Learning on Relational Data</i>
+    <tr><td valign="top">12.50h</td> <td> <b>Lunch Break</b></td> </tr>
+    <tr><td valign="top">14.10h</td> <td> <b>Keynote 2</b>
+    <!-- <br />Matthias Fey<br />
+    <i>Foundation Models for In-Context Learning on Relational Data</i> -->
     </td></tr>
-    <tr><td valign="top">15.00h</td> <td> <b>Contributed Talk</b><br />
+    <tr><td valign="top">15.10h</td> <td> <b>3rd Contributed Talk</b>
+    <!-- <br />
     Christoph Sandrock, Sebastian Lüderssen, Maximilian Thiessen, Thomas Gärtner:<br />
-    <i>Efficient Minimization of Peakless Functions on Bounded-degree Graphs.</i>
+    <i>Efficient Minimization of Peakless Functions on Bounded-degree Graphs.</i> -->
     </td> </tr>
-    <tr><td valign="top">15.15h</td> <td> <b>Contributed Talk</b><br />
+    <tr><td valign="top">15.30h</td> <td> <b>Coffee Break</b> </td> </tr>
+    <tr><td valign="top">16.00h</td> <td> <b>4th Contributed Talk</b>
+    <!-- <br />
     Dionisia Naddeo, Tiago Azevedo, Nicola Toschi:<br />
-    <i>Do We Need Curved Spaces? A Critical Look at Hyperbolic Graph Learning in Graph Classification.</i>
+    <i>Do We Need Curved Spaces? A Critical Look at Hyperbolic Graph Learning in Graph Classification.</i> -->
     </td> </tr>
-    <tr><td valign="top">15.30h</td> <td> <b>Spotlight Talks (Group B)</b></td> </tr>
-    <tr><td valign="top">15.45h</td> <td> <b>Coffee + Poster Session (Group B)</b> </td> </tr>
-     <tr><td valign="top">17.15h</td> <td> <b>Contributed Talk</b><br />
-     Pavel Prochazka, Michal Mares, Lukas Bajer:<br />
-    <i> Contrastive Learning as Optimal Homophilic Graph Structure Learning.</i>
-    </td> </tr>
-    <tr><td valign="top">17.30h</td> <td> <b>Contributed Talk</b><br />
-     Adrian Arnaiz-Rodriguez, Federico Errica : <br />
-    <i> Oversmoothing, "Oversquashing", Heterophily, Long-Range, and more: Demystifying Common Beliefs in Graph Machine Learning.</i>
-    </td> </tr>
-    <tr><td valign="top">17.45h</td> <td> <b>Closing remarks and Awards</b></td> </tr>
+    <tr><td valign="top">16.20h</td> <td> <b>Spotlight Talks (Group B)</b></td> </tr>
+    <tr><td valign="top">16.40h</td> <td> <b>Poster Session (Group B)</b>
+    <tr><td valign="top">17.45h</td> <td> <b>Closing Remarks and Awards</b></td> </tr>
 
     <!--<tr><th>Timeslot</th><th>Activity</th>
     <tr><td>9.00-9.15</td> <td> Welcoming </td> </tr>
