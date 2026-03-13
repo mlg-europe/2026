@@ -54,6 +54,13 @@ Mining and Learning with Graphs</h1>
   His research focuses on Graph Neural Networks and Spectral Properties of Graph Shift Operator Matrices.</p>
 
 
+<p class="center">
+  <img src="martin_square.png" width="150px" height="auto"><br/>
+  Martin Ritzert<br />
+  Leipzig University
+  </p>
+
+  <p>Martin Ritzert is a Junior Group Leader at Leipzig University (Germany) where his research is on graph machine learning and particularly on graph generation for neuronal morphologies and biological trees. During his PhD at RWTH Aachen University and his postdoc at Aarhus University he worked on the theoretical underpinnings of machine learning, before moving towards more practical machine learning and data science topics at University of Göttingen and Leipzig University. The title of the talk is "Growing beech and oak trees: Generative machine learning for 3D graphs".</p>
 
 <!-- 
   <p class="center">
