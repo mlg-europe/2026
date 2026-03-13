@@ -35,9 +35,9 @@ Mining and Learning with Graphs</h1>
 
 <ul class="centered">
   <li><strong>Paper <a href="https://cmt3.research.microsoft.com/ECMLPKDDWorkshopTrack2026">submission</a> deadline</strong>: 5. June 2026</li>
-  <li><strong>Paper acceptance notification</strong>: 10. July 2026</li>
-  <li><strong>Camera ready submission deadline</strong>: tbd</li>
-  <li><strong>Workshop date:</strong> Monday 7 September or Friday 11 September 2026</li>
+  <li><strong>Paper acceptance notification</strong>: tbd </li>
+  <li><strong>Camera ready submission deadline</strong>: 10. July 2026</li>
+  <li><strong>Workshop date:</strong> Monday, 7. September or Friday, 11. September 2026</li>
   <li>All deadlines expire 23:59 AoE</li>
 </ul>
 
@@ -142,12 +142,12 @@ We are interested in the full spectrum of graph data, including but not limited 
 
 <p><b>Submission Guidelines</b>: Authors should clearly indicate in their abstracts the kinds of submissions that the papers belong to, to help reviewers better understand their contributions.
 All papers will be peer-reviewed (single-blind). 
-Submissions must be in PDF, long papers no more than 12 pages long, short papers no more than 8 pages long, formatted according to the standard Springer LNCS style required for ECMLPKDD submissions.
-References and appendix do not count towards the page limit.
+Submissions must be in PDF, long papers no more than <b>12</b> pages long, short papers no more than 8 pages long, formatted according to the standard <b> Springer LNCS style</b> required for ECMLPKDD submissions.
+References, acknowledgments, and appendix do not count towards the page limit.
 The accepted papers will be published on the workshop website and will not be considered archival for resubmission purposes.
 Authors whose papers are accepted to the workshop will have the opportunity to participate in a pitch and poster session, and the best four will also be chosen for oral presentation.</p>
 
-<p><b>Papers should be submitted via CMT</b>: <a href="https://cmt3.research.microsoft.com/ECMLPKDDWorkshopTrack2026">https://cmt3.research.microsoft.com/ECMLPKDDWorkshopTrack2025</a>. Please select the <b>MLG: Mining and Learning with Graphs</b> track.
+<p><b>Papers should be submitted via CMT</b>: <a href="https://cmt3.research.microsoft.com/ECMLPKDDWorkshopTrack2026">https://cmt3.research.microsoft.com/ECMLPKDDWorkshopTrack2026</a>. Please select the <b>MLG: Mining and Learning with Graphs</b> track.
 <!-- Please select the track <i>MLG: 22nd Workshop on Mining and Learning with Graphs</i>. --></p>
 
 <p><b>Post-Workshop Springer Proceedings</b>: High quality, original, non-dual-submitted papers will be invited to be published in post-workshop proceedings, assuming that ECMLPKDD offers them as in previous years.
