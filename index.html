@@ -282,7 +282,7 @@ Konrad Özdemir, Julia Gastinger, Lukas Kirchdorfer, Heiner Stuckenschmidt (2026
 Manuel Dileo, Andrea Sottoriva (2026):<br />
 <a title="Foundation models in biology have shown strong performance in single-cell representation learning by applying transformer architectures to gene-expression matrices. However, these approaches predominantly operate in static settings and do not explicitly model the temporal evolution of developmental programs in the cell. Modeling such dynamics is important for understanding how cellular states progressively emerge, differentiate, and reorganize during development or disease progression. Moreover, modeling regulatory interactions explicitly offers a mechanistic view of cellular programs. In this work-in-progress paper, we investigate an alternative temporal graph-based perspective in which cellular states are represented through pseudotime-resolved gene regulatory networks (GRNs) and modeled as evolving graph structures over persistent gene identities. Starting from single-cell transcriptomic data, we infer pseudotime trajectories, discretize cells into developmental snapshots, reconstruct one GRN per snapshot, and apply temporal graph neural networks to forecast biological states. We evaluate this framework on two publicly available mouse developmental datasets, erythroid gastrulation and pancreatic endocrinogenesis, considering three complementary tasks: gene-expression forecasting, link prediction, and out-degree centrality prediction. Our results show that graph-based models outperform well-known foundation-model such as scGPT and scFoundation, suggesting that explicitly modeling evolving regulatory structure provides useful information beyond static pretrained representations. For link prediction and centrality forecasting, temporal graph learning captures non-trivial regulatory dynamics and enables the identification of temporally important gene hubs. Overall, our findings support temporal graph learning as a promising direction for modeling dynamic biological systems and as a complementary paradigm to current foundation model approaches in single-cell biology." href="submissions/212/Submission/2026_TGL_GRN_ECML_Workshop__Preprint_ (1).pdf">Applications of temporal graph learning for predicting the dynamics of biological systems</a>.<br />
 <p class="discreet">
-[group B]
+[group A]
 [<a href="submissions/212/Submission/2026_TGL_GRN_ECML_Workshop__Preprint_ (1).pdf">pdf</a>]
 </p>
 </li>
@@ -298,7 +298,7 @@ Marek Cerny (2026):<br />
 Marek Dědič, Michal Bělohlávek (2026):<br />
 <a title="Graph Neural Networks (GNNs) rely critically on effective hyperparameter optimization (HPO), but comprehensive HPO benchmarks for graph learning tasks remain limited. This paper addresses this gap by presenting an extensive comparison of HPO strategies for GNNs, ranging from simple random search to sophisticated Sequential Model-Based Optimization (SMBO) techniques like Bayesian Optimization (BO) and Tree-structured Parzen Estimators (TPE). Furthermore, we explore meta-learning for transfer learning, investigating its potential to accelerate HPO on new tasks by leveraging knowledge from past runs. Our results provide a practical comparative guide and demonstrate the viability of using meta-learned knowledge to significantly accelerate GNN HPO." href="submissions/359/Submission/MLG-ECML-2026-paper.pdf">Benchmarking and Transfer Learning for Hyperparameter Optimization of Graph Neural Networks</a>.<br />
 <p class="discreet">
-[group A]
+[group B]
 [<a href="submissions/359/Submission/MLG-ECML-2026-paper.pdf">pdf</a>]
 </p>
 </li>
@@ -314,7 +314,7 @@ Nadi Tomeh, Hugo Attali (2026):<br />
 Oleksii Kolesnichenko, Jakub Peleška, Gustav Šír (2026):<br />
 <a title="Relational Deep Learning (RDL) has become a powerful paradigm for learning from multi-tabular data. However, manually defining RDL prediction tasks is a laborious process that frequently results in data leakage. To address this issue, we introduce Relational Task Generation Language (RTGL) - an open-source declarative language that streamlines RDL task formulation by abstracting away low-level SQL details. We showcase RTGL by reconstructing existing RDL benchmark tasks and uncovering their inconsistencies stemming from manually crafted SQL definitions of RDL prediction targets, thereby underscoring the value of a dedicated declarative language. In addition, we demonstrate the practical utility of RTGL by designing various new tasks with diverse forms and target types. Our experiments confirm the robustness and usability of RTGL, as well as its seamless integration with the existing RDL frameworks, making it widely accessible to the community." href="submissions/128/Submission/RTGL_MLG_2026_2.pdf">Relational Task Generation Language: A Declarative Specification Framework for Relational Deep Learning</a>.<br />
 <p class="discreet">
-[group B]
+[group A]
 [<a href="submissions/128/Submission/RTGL_MLG_2026_2.pdf">pdf</a>]
 </p>
 </li>
@@ -346,7 +346,7 @@ Raffaele Pojer, Andrea Passerini, Kim Guldstrand Larsen, Manfred Jaeger (2026):<
 Saku Peltonen, H. Çağrı Bilgi, Kubilay Atasu (2026):<br />
 <a title="Graph Neural Networks (GNNs) fundamentally lack the ability to capture structural properties defined by node self-interactions, such as cycle counts, subgraph centrality, and heat kernel signatures. Existing solutions often rely on computationally expensive higher-order architectures or hand-crafted features. In this work, we introduce DIAL, a message-passing layer that gives nodes access to graph structure through the diagonal of graph-derived operators. Our approach uses randomized probing to provide nodes with learnable, permutation equivariant access to diagonal entries. We prove that our approach can express important structural features, including cycle counts, subgraph centrality, and heat kernel signatures. The proposed method can be integrated directly into message passing layers. Empirical evaluations demonstrate that this approach improves the structural expressivity of GNNs while being computationally efficient compared to higher-order baselines. Submission type: novel research paper." href="submissions/350/Submission/MLG26-submission.pdf">Random Probing for Structural Self-Interactions in Graph Neural Networks</a>.<br />
 <p class="discreet">
-[group A]
+[group B]
 [<a href="submissions/350/Submission/MLG26-submission.pdf">pdf</a>]
 </p>
 </li>
@@ -354,7 +354,7 @@ Saku Peltonen, H. Çağrı Bilgi, Kubilay Atasu (2026):<br />
 Taraneh Younesian, Steve Azzolin, Antonio Longa, Francesco Ferrini, Vincenzo Marco De Luca, Stefano Teso (2026):<br />
 <a title="Graph Neural Networks (GNNs) can solve prediction tasks by unintentionally exploiting shortcuts -- that is, edges, nodes, and features that correlate with but are not causal for the prediction -- which compromise their reliability in out-of-distribution tasks. We introduce XIGL (eXplanatory Interactive Graph shortcut unLearning), an architecture-agnostic human-in-the-loop strategy for removing such shortcuts from GNNs. Our key insight is twofold. On the one hand, reliance on shortcuts can be detected by inspecting GNN explanations. On the other hand, once made aware of such shortcuts, sufficiently expert users can provide tailored corrective feedback, which helps deconfound the model. XIGL supports any query strategy; however, since corrective feedback can be expensive to acquire, we develop an active learning strategy for prioritizing explanations that are more likely to display shortcut behavior, lowering annotation and cognitive costs. We showcase the effectiveness of XIGL, including both existing and proposed explanation-based strategies, on several GNN architectures." href="submissions/331/Submission/Overcoming Shortcut Learning in Graph Neural Networks through Active Explanation Guidance.pdf">Overcoming Shortcut Learning in Graph Neural Networks through Active Explanation Guidance</a>.<br />
 <p class="discreet">
-[group B]
+[group A]
 [<a href="submissions/331/Submission/Overcoming Shortcut Learning in Graph Neural Networks through Active Explanation Guidance.pdf">pdf</a>]
 </p>
 </li>
